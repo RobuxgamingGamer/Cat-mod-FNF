@@ -1,0 +1,11 @@
+{
+  "song": {
+    "song": "meow",
+    "bpm": 120,
+    "notes": [],
+    "needsVoices": true,
+    "player1": "bf",
+    "player2": "dad",
+    "speed": 1
+  }
+}
